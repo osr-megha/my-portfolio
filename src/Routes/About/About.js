@@ -7,11 +7,11 @@ import AboutContent from '../../Component/AboutContent/AboutContent'
 
 const About = () => {
   return (
-    <div className='about' id='about'>
+    <div id='about'>
     <Navbar />
     <MainContent heading="About Me" text="A self taught javascript/react developer with around 1.6 years of professional experience as a Frontend Developer.  "/>
     <AboutContent />
-    <Footer />
+    <Footer/>
     </div>
   )
 }
