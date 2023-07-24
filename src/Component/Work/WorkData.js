@@ -1,4 +1,22 @@
 const data = [
+  {
+    title:"Codex using OpenAI",
+    img:
+      "https://compote.slate.com/images/809a56ff-4b53-4165-99c4-96a8d8543e56.jpeg?crop=5104%2C3403%2Cx0%2Cy0",
+    text:
+      "A chat box, where we ask questions and receive answers via OpenAI",
+      view:'https://codex-open-ai-chi.vercel.app/',
+      source:'https://github.com/osr-megha/CodeX-OpenAI'
+  },
+  {
+    title:"Laundry App",
+    img:
+      "https://www.marthastewart.com/thmb/Flex0vYnG0L0h2MeFaOBKT7k0L4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/laundry-room-getty-0120-2000-f8be22967cbc4f3c8c18ff5e68dc2777.jpg",
+    text:
+      "Created using React Native",
+      view:'https://learning-react-js.vercel.app/',
+      source:'https://github.com/osr-megha/learning-react-js'
+  },
     {
       title: "Shopping Cart",
       img:
