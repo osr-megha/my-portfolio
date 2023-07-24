@@ -29,7 +29,7 @@ const data = [
     {
       title: "Login Form",
       img:
-        "https://react-vite-login-form.vercel.app/login",
+        "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-html5-css3-login-form.png",
       text:
         "Login form using React Vite",
         view:'https://react-vite-login-form.vercel.app/',
